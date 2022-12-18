@@ -8,7 +8,7 @@ urutonde = [1,3,4, "fennec"] #list
 umurongo = (4, 7, 9, "fennec") #tuple !type immuable
 aga_set = {-12,8, 4, 1, 0, 8, 1} #set !irakingira repetition des valeurs
 
-kazinduzi = {"nom" : "fennec", "age" : 28}#dict
+kazinduzi = {"nom" : "fennec", "age" : 28}#dict !les dictionnaires sont de types clés valeurs
 
 # Operations
 addition = igiharuro + nyagakwabu #addition
